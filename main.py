@@ -1,6 +1,6 @@
 # syswatch/cli.py
-from syswatch.core import get_cpu_usage, get_memory_usage, get_disk_usage, get_top_processes
-from syswatch.utils import format_bytes
+from core import get_cpu_usage, get_memory_usage, get_disk_usage, get_top_processes
+from utils import format_bytes
 
 
 
